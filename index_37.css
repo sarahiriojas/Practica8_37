@@ -1,0 +1,52 @@
+body{
+    width: 980px;
+    margin: 10px auto;
+    background-color:#ffff;
+    
+    
+}
+
+header{
+    padding: 0 0 90px auto;
+}
+
+#logo-header{
+    float: center;
+    text-decoration: none;
+}
+
+#site-name{
+    display: block;
+    float: left;
+}
+
+nav{
+    background-color:#FFFF00;
+    padding-left: 4px;
+    height: 24px;
+}
+
+nav ul li{
+    display: inline;
+    padding: 0px 20ox 5px 10px;
+    border-right:1x solid #ffffff;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+}
+
+nav ul li{
+    columns: #000000;;
+    text-decoration: none;
+}
+
+#texto{
+
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px ;
+    border: #00FFFF 5px solid;
+
+}
